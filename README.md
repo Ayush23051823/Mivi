@@ -1,16 +1,75 @@
-# React + Vite
+🎬 MIVI – OTT Streaming Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MIVI is a modern OTT streaming web application inspired by platforms like Netflix. It features a cinematic dark UI and displays dynamic movie and TV show data using the TMDB API.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://mivi-three.vercel.app/
+🔗 GitHub Repository: https://github.com/Ayush23051823/Mivi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+Cinematic, dark-themed OTT UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Browse Trending, Popular, Top Rated, and Upcoming content
 
-## Expanding the ESLint configuration
+Dynamic movie & TV show details
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Search functionality
+
+Responsive design for desktop and mobile
+
+Smooth deployment with CI/CD
+
+🛠 Tech Stack
+
+Frontend: React, Vite
+
+Styling: Tailwind CSS
+
+API: TMDB (The Movie Database)
+
+Deployment: Vercel
+
+Version Control: Git & GitHub
+
+📦 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/Ayush23051823/Mivi.git
+cd Mivi
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+
+🔐 Environment Variables
+
+Create a .env file in the root directory and add your TMDB API key:
+
+VITE_TMDB_API_KEY=your_api_key_here
+
+🌐 Deployment
+
+This project is deployed on Vercel using GitHub integration.
+Every push to the main branch automatically triggers a new production build.
+
+👨‍💻 Author
+
+Ayush Kumar
+
+GitHub: https://github.com/Ayush23051823
+
+LinkedIn: https://www.linkedin.com/in/ayush-kumar-4373662a9/
+
+📸 Screenshots
