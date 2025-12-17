@@ -1,5 +1,5 @@
 import { HelpCircle, LogOut, Search, Settings } from "lucide-react";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 import { Link } from "react-router"; // ⬅️ react-router-dom, not react-router
 import { useState } from "react";
 import { toast } from "react-hot-toast";
