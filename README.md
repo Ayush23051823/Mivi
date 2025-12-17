@@ -53,12 +53,6 @@ Build for production:
 
 npm run build
 
-🔐 Environment Variables
-
-Create a .env file in the root directory and add your TMDB API key:
-
-VITE_TMDB_API_KEY=your_api_key_here
-
 🌐 Deployment
 
 This project is deployed on Vercel using GitHub integration.
