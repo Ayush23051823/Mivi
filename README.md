@@ -73,3 +73,13 @@ GitHub: https://github.com/Ayush23051823
 LinkedIn: https://www.linkedin.com/in/ayush-kumar-4373662a9/
 
 📸 Screenshots
+
+<img width="1891" height="872" alt="Screenshot 2025-12-06 012631" src="https://github.com/user-attachments/assets/f5a8ad95-d1a2-4e13-84b6-56b76df33b0a" />
+<img width="1895" height="873" alt="Screenshot 2025-12-06 013323" src="https://github.com/user-attachments/assets/5598424a-d65d-4892-ba28-3aa796777e4a" />
+<img width="1895" height="873" alt="Screenshot 2025-12-06 013323" src="https://github.com/user-attachments/assets/220acd4d-745f-4f16-b7b8-453d698f7d08" />
+<img width="1895" height="873" alt="Screenshot 2025-12-06 013323" src="https://github.com/user-attachments/assets/bde3819a-9cb6-4207-8815-1d655f9c8b6a" />
+<img width="1895" height="873" alt="Screenshot 2025-12-06 013323" src="https://github.com/user-attachments/assets/658c37e4-3d21-4aba-8ecb-6aa615863b24" />
+
+
+
+
