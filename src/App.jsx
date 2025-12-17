@@ -6,7 +6,6 @@ import SignIn from "./Pages/SignIn";
 import SignUp from "./Pages/SignUp";
 import {Toaster} from "react-hot-toast"
 import { useEffect } from "react";
-import AIRecommendations from "./pages/AIRecommendations";
 
 const App = () => {
   
@@ -20,7 +19,6 @@ const App = () => {
         <Route path={"/movie/:id"} element={<Moviepage />} />
         <Route path={"/signin"} element={<SignIn />} />
         <Route path={"/signup"} element={<SignUp />} />
-        <Route path={"/ai-recommendations"} element={<AIRecommendations />} />
       </Routes>
     </div>
   );
